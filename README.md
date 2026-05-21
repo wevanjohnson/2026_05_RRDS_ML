@@ -45,6 +45,6 @@ install.packages(c(
 | Day/Time | Topics |
 | :------- | :----- |
 | Thu 1:30-2:00pm | Introduction to machine learning, data science workflows, regularization, and kernels |
-| Thu 2:00-2:35pm | Support vector machines, decision trees, random forests, and boosting |
-| Thu 2:35-3:05pm | Neural networks and deep learning concepts |
-| Thu 3:05-3:30pm | Hands-on `caret` workflow with the TB NanoString data |
+| Thu 2:00-2:30pm | Hands-on `caret` workflow with the TB NanoString data |
+| Thu 2:30-3:00pm | Support vector machines, decision trees, random forests, and boosting |
+| Thu 3:00-3:30pm | Neural networks and deep learning concepts |
